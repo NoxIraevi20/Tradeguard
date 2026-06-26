@@ -1,5 +1,5 @@
 TradeGuard — Forex Trade Journaling Website
-
+https://tradeguard-20.netlify.app/
 A web-based trade journal built to help forex traders log and review their trades. This project was built as part of my self-directed journey into programming, applying HTML, CSS, and JavaScript fundamentals to a practical, real-world tool for traders.
 
 Overview
